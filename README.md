@@ -32,7 +32,6 @@
 
 ### 🌟 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ankush-udapure/)
-- 📧 **Email:** ankush.udapure@example.com
+- 📧 **Email:** ankushudapure9@gmail.com
 - 📌 **Location:** Nagpur, India
 
-📌 *Feel free to explore my repositories and collaborate on projects!* 🚀
